@@ -1,0 +1,15 @@
+<svg width="880" height="360" viewBox="0 0 880 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="880" height="360" rx="14" fill="#0D1117"/>
+  <rect y="0" width="880" height="38" rx="14" fill="#161B22"/>
+  <circle cx="24" cy="19" r="6" fill="#FF5F57"/>
+  <circle cx="45" cy="19" r="6" fill="#FFBD2E"/>
+  <circle cx="66" cy="19" r="6" fill="#28C840"/>
+  <text x="26" y="76" fill="#7EE787" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">$ br "cep 01001000"</text>
+  <text x="26" y="112" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">CEP         01001-000</text>
+  <text x="26" y="140" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">Logradouro  Praca da Se</text>
+  <text x="26" y="168" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">Cidade      Sao Paulo</text>
+  <text x="26" y="196" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">UF          SP</text>
+  <text x="26" y="244" fill="#7EE787" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">$ br cpf gerar --quiet</text>
+  <text x="26" y="280" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">529.982.247-25</text>
+  <text x="26" y="324" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">br: dados brasileiros no terminal, sem chave e sem IA</text>
+</svg>
